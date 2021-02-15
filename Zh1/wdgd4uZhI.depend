@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587987266 source:d:\_gamer1_adatai\desktop\progalap\wdgd4uzhi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"E1.h"
+
+1587983058 source:d:\_gamer1_adatai\desktop\progalap\wdgd4uzhi\src\e1.cpp
+	"E1.h"
+
+1587987308 d:\_gamer1_adatai\desktop\progalap\wdgd4uzhi\include\e1.h
+	<iostream>
+

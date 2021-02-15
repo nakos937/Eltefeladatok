@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1591981483 source:d:\_gamer1_adatai\desktop\oep_wdgd4u\main.cpp
+	<iostream>
+	<sstream>
+	"library/summation.hpp"
+	"library/maxsearch.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/seqinfileenumerator.hpp"
+
+1547547402 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555652084 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502814430 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\enumerator.hpp
+
+1547545600 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\maxsearch.hpp
+	"procedure.hpp"
+
+1554937224 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1535999580 d:\_gamer1_adatai\desktop\oep_wdgd4u\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

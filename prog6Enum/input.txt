@@ -1,0 +1,4 @@
+spenot  11  15  2   1200
+lazac   10  33  4   1300
+pizza   11  45  6   1000
+rantotthus   17  17  3   1000

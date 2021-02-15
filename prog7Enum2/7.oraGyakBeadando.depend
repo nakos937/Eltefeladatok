@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586005894 source:d:\_gamer1_adatai\desktop\progalap\7.oragyakbeadando\foodenor.cpp
+	"foodEnor.h"
+	<iostream>
+	<sstream>
+
+1586005894 d:\_gamer1_adatai\desktop\progalap\7.oragyakbeadando\foodenor.h
+	<string>
+	<fstream>
+	<iosfwd>
+
+1586006049 source:d:\_gamer1_adatai\desktop\progalap\7.oragyakbeadando\main.cpp
+	<iostream>
+	"foodEnor.h"
+

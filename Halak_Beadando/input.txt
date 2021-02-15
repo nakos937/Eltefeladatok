@@ -1,0 +1,6 @@
+IMIBA Tiszato0610 Harcsa 5.1 Ponty 5.2
+IMIBA Kiliti0512 Ponty 5.5  Ponty 5.3
+IMIBA Szeged0807 Harcsa 5.3 Ponty 4.8 Harcsa 9.6
+JANIBA Kiliti0512 Ponty 4.5 Harcsa 5.3 Harcsa 9.6
+JANIBA Szeged0807 Ponty 4.5 Harcsa 5.3 Harcsa 9.6
+ZOLIBA Szeged0807 Harcsa 9.2
